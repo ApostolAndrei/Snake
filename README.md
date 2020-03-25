@@ -1,2 +1,2 @@
 # Snake
-A basic snake game made with C++
+A snake game made with C++
